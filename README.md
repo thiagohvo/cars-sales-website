@@ -38,7 +38,7 @@ This project is a **responsive car sales website** that allows users to browse a
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/car-sales-website.git
+git clone https://github.com/thiagohvo/cars-sales-website.git
 cd car-sales-website
 # Open index.html in your browser or run with a local server
 ```
