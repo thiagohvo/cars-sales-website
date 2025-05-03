@@ -67,7 +67,7 @@ Thiago Henrique Vieira de Oliveira
 
 ## 📅 Project Date
 
-june 2024
+June 2024
 
 ---
 
